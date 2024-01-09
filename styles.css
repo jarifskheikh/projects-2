@@ -1,0 +1,146 @@
+.content{
+    text-align: center;
+    background-image: url(Banner\ Image.png);
+    background-position: center;
+    background-size: cover;
+    width: 1320px;
+    height: 600px;
+    color: white;
+    flex-shrink: 0;
+    background-repeat: no-repeat;
+    display: block;
+    margin-right: auto;
+    margin-left: auto;
+}
+
+.text{
+    text-align: center;
+    color: red;
+    font-weight: 700;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 39px;
+    font-style: normal;
+    line-height: normal;
+}
+.mext{
+    color: red;
+    text-align: center;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 24px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: normal;
+}
+.next{
+    color: black;
+    text-align: center;
+    font-size: 25px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+}
+.fext{
+    display: block;
+    margin: auto;
+    margin-right:auto;
+    height: 100%;
+    width: 35%;
+}
+.lext{
+    background-image: url(Vectorrr.png);
+    background-repeat: no-repeat;
+    padding: 0% 5%;
+    width: 1130px;
+    height: 650px;
+    margin: auto;
+    color: white;
+    line-height: 40px;
+    margin: top ;
+    display: flex;
+}
+.kext{
+    text-align: center;
+    margin: 10px 10px 10px 10px;
+    padding: 5%;
+}
+.vext{
+    color: red;
+}
+#player{
+    color: wheat;
+    background-color: red;
+    padding: 12px 30px;
+    margin: 10;
+    margin: none;
+    border-radius: 50px;
+}
+#gamer{
+    color: red;
+}
+.mix{
+    display: flex;
+    left: 10;
+    right: 50;
+    gap: 8%;
+    padding: 8% 0% 0% 20%;
+}
+.rext{
+left: 70%;
+}
+
+.eext{
+    text-align: center;
+    padding: 8%;
+}
+#close{
+    color: red;
+}
+#nok{
+    color: red;
+}
+.body-fact{
+    padding: 7% 13% 0% 15%;
+}
+#imo{
+    color:white;
+    background-color: #F00;
+    border: none;
+    border-radius:  0px 50px 50px 0px;
+    padding: 1%;
+}
+.jeo{
+    padding: 6% 9% 5% 16%;
+    text-align: center;
+}
+.jio{
+    background-color: rgba(255, 0, 0, 0.05);
+    height: 200%s;
+    padding: 122px 0;
+}
+.mio input{
+   border-radius: 50px 0px 0px 50px;
+}
+.mio{
+    display: flex;
+    padding: 0% 0% 0% 40%;
+}
+.lol{
+    display: flex;
+    gap: 30%;
+    color: white;
+    padding: 0% 0% 0% 15%;
+}
+.call{
+    background-color: #070211;
+    height:609px;
+    width: 2600px;
+}
+.last{
+    padding: 5% 0% 0% 30%;
+}
+.allmost-last{
+    display: flex;
+    color: white;
+    gap: 30%;
+    padding: 3% 0% 0% 20%;
+}
